@@ -1,0 +1,8 @@
+django
+psycopg2-binary
+urllib3
+Pillow
+reportlab
+utils
+xhtml2pdf
+django-extensions
